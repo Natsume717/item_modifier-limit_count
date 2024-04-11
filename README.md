@@ -1,0 +1,2 @@
+# item_modifier-limit_count
+item_modifierの1項目であるlimit_countに関するサンプルになります。
