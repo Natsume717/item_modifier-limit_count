@@ -1,0 +1,5 @@
+{
+    "function": "minecraft:limit_count",
+    "limit": 100
+  }
+  
