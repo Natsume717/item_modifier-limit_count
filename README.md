@@ -1,8 +1,7 @@
 # item_modifier-limit_count
 item_modifierの1項目であるlimit_countに関するサンプルになります。
 
-~詳しくはブログ記事『[]()』を参考にしてください。~<br>
-現在執筆中
+詳しくはブログ記事『[【マイクラ】limit_countでアイテム数を調整する【item_modifier】](https://natsumake.com/item_modifier-limit_count/)』を参考にしてください。
 
 <h3>概要</h3>
 アイテムのスタック個数を制限（変更）することのできるitem_modifierの項目。<br>
